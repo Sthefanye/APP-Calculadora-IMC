@@ -1,0 +1,46 @@
+<resources>
+    <!--Título  -->
+    <string name="app_name">Calcule seu IMC</string>
+
+    <!-- Linear Layout Inputs-->
+    <string name="txt_label_altura">Informe sua altura (m): </string>
+    <string name="txt_label_peso">Informe seu peso (kg): </string>
+
+    <!--Button-->
+    <string name="self_destruct">Calcular</string>
+
+    <!--Tabela-->
+        <!--Título tabela -->
+    <string name="txt_label_table_title">Veja a interpretação do IMC</string>
+
+        <!--1º Linha: Títulos-->
+        <string name="txt_label_imc">IMC</string>
+        <string name="txt_label_classf">Classificação</string>
+        <string name="txt_label_grau">Grau</string>
+
+        <!--2º Linha-->
+        <string name="txt_label_imc1">MENOR QUE 18.5</string>
+        <string name="txt_label_magreza">ABAIXO DO PESO</string>
+        <string name="txt_label_0">0</string>
+
+        <!--2º Linha-->
+        <string name="txt_label_imc2">ENTRE 18.5 E 24.9</string>
+        <string name="txt_label_normal"> PESO NORMAL</string>
+        <string name="txt_label_00">0</string>
+
+        <!--3º Linha-->
+        <string name="txt_label_imc3">ENTRE 25.0 E 29.9</string>
+        <string name="txt_label_sobrepeso">SOBREPESO</string>
+        <string name="txt_label_1">I</string>
+
+        <!--4º Linha-->
+        <string name="txt_label_imc4">ENTRE 30.0 E 39.9</string>
+        <string name="txt_label_obesidade">OBESIDADE</string>
+        <string name="txt_label_2">II</string>
+
+        <!--5º Linha-->
+        <string name="txt_label_imc5">MAIOR QUE 40.0</string>
+        <string name="txt_label_obesidade_grave">OBESIDADE GRAVE</string>
+        <string name="txt_label_3">III</string>
+
+</resources>
